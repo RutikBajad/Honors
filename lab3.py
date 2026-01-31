@@ -1,4 +1,4 @@
-Perform Comparative Analysis of Daily Temperatures Across Cities Using Mean, Median, Mode, and Visualization the temperature distributions. Consider the given dataset
+# Perform Comparative Analysis of Daily Temperatures Across Cities Using Mean, Median, Mode, and Visualization the temperature distributions. Consider the given dataset
 
 import numpy as np
 import seaborn as sns
